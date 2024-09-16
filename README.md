@@ -242,5 +242,3 @@ stroka = "3a4b2c3b"
   8)(Доп) Показать максимальное **longitude**, где **median_income** > 3
 
   9)(Доп) Узнать какая максимальная **total_bedrooms** при минимальном значении **households**
-
-</details>
