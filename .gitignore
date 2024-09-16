@@ -1,0 +1,10 @@
+[Ee]nv/
+__pycache__/
+.vs/
+.vscode/
+logs/
+
+*.log
+*_log.*
+log.*
+log_*.*
